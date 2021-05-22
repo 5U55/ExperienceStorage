@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "xpsaver:block/xp_storage_table"
+    }
+  }
+}
